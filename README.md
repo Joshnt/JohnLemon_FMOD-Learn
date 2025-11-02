@@ -4,8 +4,7 @@
 ## General Concept
 Learn Game-Audio in FMOD - without having to bother about integrating/ coding those connections in Unity.
 With that, aspiring Game-Audio-Designers can work directly in FMOD and learn/ teach the Middleware FMOD working in a readily build game!
-See setup in this Video:
-*Coming Soon*
+See setup in [this Video](https://youtu.be/BaJWNOkKOzg).
 
 
 
